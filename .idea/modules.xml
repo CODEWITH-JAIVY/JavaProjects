@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Library_Management_System_using_OOP/Library_Management_System_using_OOP.iml" filepath="$PROJECT_DIR$/Library_Management_System_using_OOP/Library_Management_System_using_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopingCardSystem/ShopingCardSystem.iml" filepath="$PROJECT_DIR$/ShopingCardSystem/ShopingCardSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java Project.iml" filepath="$PROJECT_DIR$/.idea/java Project.iml" />
     </modules>
   </component>
